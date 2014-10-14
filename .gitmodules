@@ -1,6 +1,6 @@
 [submodule "galeb-router"]
 	path = galeb-router
 	url = https://github.com/tuxmonteiro/galeb-router.git
-[submodule "log4j2"]
-	path = log4j2
-	url = https://github.com/tuxmonteiro/vertx-log4j2.git
+[submodule "galeb-log4j2"]
+	path = galeb-log4j2
+	url = https://github.com/tuxmonteiro/galeb-log4j2.git
