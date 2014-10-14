@@ -15,7 +15,7 @@
   </licenses>
 
   <modules>
-    <module>log4j2</module>
+    <module>galeb-log4j2</module>
     <module>galeb-router</module>
   </modules>
 
