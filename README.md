@@ -1,4 +1,6 @@
 #Galeb
-[![Build Status](https://travis-ci.org/galeb/galeb.svg?branch=develop)](https://travis-ci.org/galeb/galeb)
+[![Build Status](https://travis-ci.org/globocom/galeb.svg?branch=develop)](https://travis-ci.org/globocom/galeb)
 
-Ex-VxRouter - Virtual Load Balance as a Service / Reverse Proxy / L7 Router
+Galeb is an open source Router as a Service software.
+
+See more: http://galeb.io
